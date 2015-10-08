@@ -93,6 +93,10 @@ under **Tools -> Options**.
 
 They are all enabled by default.
 
+### Build requirements
+Node
+npm 3+
+
 ## Reset settings
 Resetting the settings will do 2 things:
 
